@@ -50,6 +50,9 @@ This project provides a comprehensive analysis of employee-related metrics acros
  -	Employees with high satisfaction are 20% less likely to leave.
 
 
+![Image](https://github.com/user-attachments/assets/f272c33c-f6b6-430b-a0fa-be525f9bb3d9)
+
+
 ## Tools and Technologies
   - **Power BI**: Used to build interactive dashboards for HR insights.
   -	**Excel**: Preprocessed raw employee data.
